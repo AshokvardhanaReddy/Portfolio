@@ -1,12 +1,27 @@
-# Getting Started with Create React App
+# Introduction
+My name is Yarasi Ashokvardhana Reddy. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 🌱 Aspiring full-stack Web developer with knowledge in
+  HTML, CSS, JavaScript and MERN stack.
 
-## Available Scripts
+- 👀 Flexible to work
+  in an environment with morals and ethics.
+
+- 💞️ Self-motivated
+  and take responsibilities while working in a team.
+
+- 👀 Apart from that, when I am free, I listen to songs, play video    games and play badminton.
+
+- 📫 Reach me on ...
+
+<!-- linkdin -->
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![An old rock in the desert](./src/Components/portfolioImages/linkedin-icon.svg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/) &nbsp; &nbsp; &nbsp;  [![An old rock in the desert](./src/Components/portfolioImages/twitter.svg "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/yavreddy1995)  &nbsp; &nbsp; &nbsp; [![An old rock in the desert](./src/Components/portfolioImages/gmail.svg "Shiprock, New Mexico by Beau Rogers")](https://accounts.google.com/signin/v2/identifier?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession)
+
+# Education
 
 In the project directory, you can run:
 
-### `npm start`
+# Journey At Masai
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -14,12 +29,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+# Skills
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# Portfolio Link
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.

@@ -62,17 +62,114 @@
   border: 1px solid red;
 }
 
-@media (min-width: 100px) and (max-width: 480px) {
+@media (min-width: 100px) and (max-width: 500px) {
   #projectHeadings {
     font-size: 150%;
     margin: 6%;
   }
+
+  .projectsDiv {
+    height: 300px;
+    margin:auto;
+    width:95%;
+    border-radius: 0px 40px 0px 30px;
+    border:1px solid red;
+    display:grid;
+    grid-template-columns:100%;
+  }
+
+ 
+  .projectImgDiv{
+    width:100%;
+    height:80px;
+    /* background-color: black; */
+  }
+  .projectImg {
+    border-radius: 0px 30px 0px 30px;
+    height:100%;
+    width:50%;
+    /* border:1px solid red; */
+  }
+  #projectImg_1{
+    width:50%;
+    height:100%;
+  }
+  
+  .projectHeading {
+    font-size: 100%;
+    margin-top: 2%;
+  }
+  .projectDescription {
+    width: 95%;
+    font-size: 75%;
+  }
+  
+  .teckStackDiv {
+    margin: 10px 20px;
+  }
+  .teckStackName {
+    font-size:60%;
+    margin-left: 1%;
+    
+ 
+  }
+
+
+
+
 }
 
-@media (min-width: 480px) and (max-width: 820px) {
+@media (min-width: 500px) and (max-width: 820px) {
   #projectHeadings {
     margin: 6%;
   }
+  .projectsDiv {
+    width: 95%;
+    height: 250px;
+    margin:auto;
+    border-radius: 0px 40px 0px 30px;
+    border:1px solid red;
+    display:grid;
+    grid-template-columns: 30% 70%;
+  }
+
+ 
+  .projectImgDiv{
+    width:100%;
+    height:250px;
+    /* background-color: black; */
+  }
+  .projectImg {
+    border-radius: 0px 0px 0px 30px;
+    height:100%;
+    /* border:1px solid red; */
+  }
+  #projectImg_1{
+    width:100%;
+    height:100%;
+  }
+  
+  .projectHeading {
+    font-size: 140%;
+    margin-top: 3%;
+  }
+  .projectDescription {
+    width: 95%;
+    font-size: 80%;
+  }
+  
+  .teckStackDiv {
+    margin: 10px 20px;
+  }
+  .teckStackName {
+    font-size:80%;
+    margin-left: 1%;
+    border-radius: 5%;
+ 
+  }
+
+
+
 }
 
 @media (min-width: 820px) and (max-width: 1280px) {
@@ -85,10 +182,20 @@
     height: 350px;
     border-radius: 0px 40px 0px 30px;
   }
+
  
-  
+  .projectImgDiv{
+    width:100%;
+    height:350px;
+    /* background-color: black; */
+  }
   .projectImg {
     border-radius: 0px 0px 0px 30px;
+    height:100%;
+    /* border:1px solid red; */
+  }
+  #projectImg_1{
+    width:100%;
     height:100%;
   }
   
@@ -98,7 +205,7 @@
   }
   .projectDescription {
     width: 90%;
-    font-size: 80%;
+    font-size: 90%;
   }
   
   .teckStackDiv {
@@ -108,5 +215,7 @@
     margin-left: 10px;
     border-radius: 4px;
   }
+
+
 
 }

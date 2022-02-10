@@ -8,9 +8,9 @@ function Projects() {
       <h1 id="projectHeadings">Projects</h1>
 
       <div class="projectsDiv">
-        {/* image Div */}
+       
         <div class="projectImgDiv">
-          <img class="projectImg" src={projectImage_1}></img>
+          <img id="projectImg_1" class="projectImg" src={projectImage_1}></img>
         </div>
 
         {/* project Details Div */}
@@ -78,15 +78,7 @@ function Projects() {
           </button>
         </div>
       </div>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
+     
     </div>
   );
 }
