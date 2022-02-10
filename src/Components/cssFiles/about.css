@@ -1,0 +1,66 @@
+#aboutHeading{
+    color:white;
+    font-size:3rem;
+}
+
+#aboutParagraphDiv {
+    display: table;
+    width: 75%;
+    margin:auto;
+    height: 200px;
+    text-align: center;
+    background-color: white;
+    border-radius:0px 30px 0px 30px;
+    font-size:1.1rem;
+  }
+  #aboutParagraph {
+      width:80%;
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+
+@media (min-width:820px) and (max-width:1280px){
+    #aboutHeading{
+        margin:3rem;
+        font-size:2rem;
+    }
+    #marginParaDiv{
+        margin-top:15%;
+    }
+    #aboutParagraph{
+        width:80%;
+    }
+    
+    
+}
+
+
+@media(min-width:481px) and (max-width:820px){
+    #aboutHeading{
+        margin:3rem;
+        font-size:1.5rem;
+    }
+    #aboutParagraphDiv{
+        width:90%;
+    }
+    #aboutParagraph{
+        width:75%;
+    }
+}
+
+
+@media(min-width:200px) and (max-width:480px){
+    #aboutHeading{
+        margin:3rem;
+        font-size:1rem;
+    }
+    #aboutParagraphDiv{
+        width:95%;
+        margin:auto;
+
+    }
+    #aboutParagraph{
+        width:90%;
+    }
+}

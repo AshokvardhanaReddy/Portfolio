@@ -6,6 +6,7 @@ import {Skills} from "./Components/skills"
 import {Projects} from "./Components/projects"
 import {Contact} from "./Components/contact"
 import {Image} from "./Components/image"
+import {About} from "./Components/about"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
      
      <Navbar/>
      <Image/>
+     <About/>
      <Skills/>   
      <Projects/>
      <Contact/>
