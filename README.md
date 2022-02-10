@@ -14,26 +14,23 @@ My name is Yarasi Ashokvardhana Reddy.
 
 - 📫 Reach me on ...
 
-<!-- linkdin -->
-  &nbsp; &nbsp; &nbsp; [![An old rock in the desert](./src/Components/portfolioImages/linkedin-icon.svg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/) [![An old rock in the desert](./src/Components/portfolioImages/twitter.svg "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/yavreddy1995) 
- [![An old rock in the desert](./src/Components/portfolioImages/gmail.svg "Shiprock, New Mexico by Beau Rogers")](https://accounts.google.com/signin/v2/identifier?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession)
+
 
 # Education
 
-In the project directory, you can run:
+I Completed my graduation in B.Com ( Computers ) in 2016. After my graduation, I wanted to prepare for bank exams. So I joined Mahindra Banking Institute in Hyderabad, I took 8 months of coaching for bank exams. After that, I came to my nearest city to prepare for exams. While I was preparing for banking exams, I also worked in a medical shop for a few years and a few months with Zomato.
+
 
 # Journey At Masai
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Before joining Masai School, I was working as an amazon delivery executive. Then a few of my friends suggested me to learn software Programming languages. But I did not know where to learn and how to learn. Then I found Masai School on Youtube and I enrolled for the Full Stack Web Development course.
+
+At Masai School, I learnt technical skills such as HTML, CSS, JavaScript, MongoDB, MERN Stackvalong with Data Structures and Algorithms. soft skills and Problem-Solving skills and used them in the two projects that I was a part of, one of which was clone of Juicy Chemistry and the other was Bodywise.
 
 # Skills
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### HTML
 
 # Portfolio Link
 
